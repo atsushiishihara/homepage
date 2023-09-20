@@ -1,18 +1,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://atsushiishihara.github.io/homepage/gallery.html</loc>
-<lastmod>2023-09-20T16:23:39+00:00</lastmod>
-</url>
-<url>
-<loc>https://atsushiishihara.github.io/homepage/</loc>
-<lastmod>2023-09-20T16:23:39+00:00</lastmod>
-</url>
-<url>
-<loc>https://atsushiishihara.github.io/homepage/interest.html</loc>
-<lastmod>2023-09-20T16:23:39+00:00</lastmod>
-</url>
-<url>
-<loc>https://atsushiishihara.github.io/homepage/link.html</loc>
-<lastmod>2023-09-20T16:23:39+00:00</lastmod>
-</url>
+  <url>
+    <loc>https://atsushiishihara.github.io/homepage/gallery.html</loc>
+    <lastmod>2023-09-20T16:23:39+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://atsushiishihara.github.io/homepage/</loc>
+    <lastmod>2023-09-20T16:23:39+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://atsushiishihara.github.io/homepage/interest.html</loc>
+    <lastmod>2023-09-20T16:23:39+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://atsushiishihara.github.io/homepage/link.html</loc>
+    <lastmod>2023-09-20T16:23:39+00:00</lastmod>
+  </url>
 </urlset>
